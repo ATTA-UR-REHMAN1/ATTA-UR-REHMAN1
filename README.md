@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **qaziatta5929256@gmail.com** For Collaboration/Project or 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/me/) [![LinkedIn](linkedin.com/in/qazi-atta-243851397)](https://linkedin.com/in/qaziatta5929256@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@qa8688?si=h4ogzMnCqAS62kgC) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qaziatta5929256@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/me/) [![LinkedIn]([linkedin.com/in/qazi-atta-243851397](https://www.linkedin.com/in/qazi-atta-243851397/.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/qaziatta5929256@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@qa8688?si=h4ogzMnCqAS62kgC) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qaziatta5929256@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
