@@ -22,7 +22,7 @@ Email Me 👉 ✉️ **qaziatta5929256@gmail.com** For Collaboration/Project or 
 
 As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
 
-## 🛡️ Cybersecurity & Tech Stack  
+## 🛡️ Cybersecurity   
 
 <p align="left">
   <!-- Cybersecurity Tools -->
